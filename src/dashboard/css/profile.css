@@ -1,0 +1,9 @@
+.contenedor .text h1{
+    font-size: 2.5em;
+}
+
+.contenedor .text h1:hover{
+    transform: scale(1.5);
+}
+
+
